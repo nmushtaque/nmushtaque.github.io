@@ -1,5 +1,2 @@
 # webcontent
-This is an HTML file called retry.html
-It has a button if clicked does and XMLHttpRequest
-This is just an example on XHR request.
-WHAT ARE U DOINGß
+This is just a test page created during GIT learning endeavor. 
